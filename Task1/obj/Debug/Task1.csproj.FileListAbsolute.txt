@@ -1,0 +1,19 @@
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413\Task1\bin\Debug\Task1.exe.config
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413\Task1\bin\Debug\Task1.exe
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413\Task1\bin\Debug\Task1.pdb
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413\Task1\obj\Debug\Task1.exe
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413\Task1\obj\Debug\Task1.pdb
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413_SR1\Task1\bin\Debug\Task1.exe.config
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413_SR1\Task1\bin\Debug\Task1.exe
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413_SR1\Task1\bin\Debug\Task1.pdb
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.exe
+C:\temp\CIV\Programming 1\AE_3_of_3 (skills)\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.pdb
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\bin\Debug\Task1.exe.config
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\bin\Debug\Task1.exe
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\bin\Debug\Task1.pdb
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.exe
+E:\YTafe\MProject\C#Ass\ICTPRG430_ICTPRG413_SR1\Task1\obj\Debug\Task1.pdb
